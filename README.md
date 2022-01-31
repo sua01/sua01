@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 😎My Blog https://blog.naver.com/sua0211 <br>
+### 😎My Blog https://blog.naver.com/sua0211
 
-
+### ✨My Code Mate https://codemate.kr/@sua0211
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sua01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
