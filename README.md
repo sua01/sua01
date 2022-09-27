@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ### 😎My Blog https://blog.naver.com/sua0211
 
+### 😎My Study Blog https://say021.tistory.com/
+
 ### ✨My Code Mate https://codemate.kr/@sua0211
 
 
