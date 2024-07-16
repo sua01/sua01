@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ### My Study Blog https://say021.tistory.com/
 
-### My Code Mate https://codemate.kr/@sua0211
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sua01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
